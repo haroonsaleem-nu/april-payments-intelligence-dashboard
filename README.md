@@ -33,3 +33,4 @@ This dashboard helps identify revenue concentration, agent productivity, and pay
 
 ## Dashboard Preview
 ![Dashboard Preview](images/Figure1.png)
+![Dashboard Preview](images/Figure2.png)
