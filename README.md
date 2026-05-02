@@ -32,4 +32,4 @@ To convert raw payment data into actionable business insights using Python and S
 This dashboard helps identify revenue concentration, agent productivity, and payment behavior patterns for better operational and financial decision-making.
 
 ## Dashboard Preview
-![Dashboard Preview](images/Figure2.png)
+![Dashboard Preview](images/Figure1.png)
